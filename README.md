@@ -1,1 +1,1 @@
-Repo containing private code for catcoder contests from codeflight
+Repo containing private code for coding contests (mainly catcoder from codeflight)
